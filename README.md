@@ -1,13 +1,12 @@
 # 🧙‍♂️ Alex “Wizrd” Murray
 
-**Aspiring AI Engineer & Data Science Enthusiast**  
+**🎓 Currently pursuing an MSc in Artificial Intelligence & Data Science at the University of East London**  
 Building games, data projects, and tools as I learn.
 
 ---
 
 ## 👋 About Me
 
-- 🎓 Preparing for an MSc in **AI & Data Science**  
 - 🐍 Currently focusing on **Python** (3.13)  
 - 🧮 Interested in **AI, data analysis, and game logic**  
 - 🎧 Creative background as **Wizrd** (music & DJing), now adding **AI engineering** to the mix  
