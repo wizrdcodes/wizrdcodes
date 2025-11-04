@@ -1,12 +1,58 @@
-Welcome to my GitHub! You have traveled far...
+# 🧙‍♂️ Alex “Wizrd” Murray
 
-I'm an AI & Data Science Enthusiast! 
+**Aspiring AI Engineer & Data Science Enthusiast**  
+Building games, data projects, and tools as I learn.
 
-Currently learning Python
+---
 
-Working on a game selection menu with a few game ideas I've had recently...
+## 👋 About Me
 
-Find me @wizrd on instagram or @wizrdcodes on discord!
+- 🎓 Preparing for an MSc in **AI & Data Science**  
+- 🐍 Currently focusing on **Python** (3.13)  
+- 🧮 Interested in **AI, data analysis, and game logic**  
+- 🎧 Creative background as **Wizrd** (music & DJing), now adding **AI engineering** to the mix  
+
+---
+
+## 🔭 What I’m Working On
+
+- 🎮 **[Game_Selection](https://github.com/wizrdcodes/Game_Selection)**  
+  Multi-game Python menu that launches several minigames plus a modular, text-based RPG  
+  - Shows: modular architecture, state management, multi-file project organisation
+
+- 📊 **[US_Data](https://github.com/wizrdcodes/US_Data)**  
+  Analyzing US inflation data and presidential terms with **pandas** & **matplotlib**  
+  - Shows: CSV handling, data cleaning, grouping/aggregation, visualisation
+
+- 🧪 **Clustering & ML practice (coming soon)**  
+  Small experiments with **k-means** and other ML techniques as I deepen my AI knowledge.
+
+---
+
+## 🧰 Tech & Tools
+
+- **Languages:** Python (core focus), a bit of bash / shell  
+- **Libraries:** pandas, matplotlib, numpy  
+- **Tools:** PyCharm, Git & GitHub, Jupyter/Colab  
+- **Concepts:** basic data analysis, visualisation, game state management, modular design
+
+---
+
+## 🎯 Goals
+
+- Build a solid foundation in **Python & AI engineering**  
+- Ship more small but meaningful projects and document them clearly  
+- Grow into roles like **AI engineer, data engineer, or Python developer**
+
+---
+
+## 📫 Connect
+
+- Instagram: **@wizrd**  
+- GitHub: **@wizrdcodes**  
+
+Feel free to explore my repos — feedback and suggestions are always welcome.
+
 
 <!--
 **wizrdcodes/wizrdcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
