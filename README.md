@@ -1,11 +1,11 @@
-# 🧙 Alex "Wizrd" Murray
+# 🧙🏼‍♂️ Alex "Wizrd" Murray
 
 **🌿 Studying Artificial Intelligence & Data Science (MSc) — specializing in Python, data analysis, and AI systems**
 Building games, data projects, and tools as I learn.
 
 ---
 
-## 👋 About Me
+## 💬 About Me
 
 - 🌿 Currently pursuing an **MSc in Artificial Intelligence & Data Science** at the University of East London
 - 🧠 Currently focusing on **Python** (3.13)
